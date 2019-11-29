@@ -11,8 +11,36 @@ body{
 }
 .nav{
     list-style-type: none;
+    margin-left: 330px;
 }
 .lista{
     display: inline-block;
     float: left;
+    margin-right: 15px;
+    font-family: "Fuente Titulo2";
+    font-size: 15px;
+    
+}
+header{
+    height: 150px;
+   
+}
+hr{
+    background-image: url("imagenes/red_background.png");
+
+}
+@font-face{
+    font-family: "Fuente Titulo";
+    src: url("fuentes/ballpark.ttf");
+}
+h1{
+    font-family: "Fuente Titulo";
+
+}
+@font-face{
+    font-family: "Fuente Titulo2";
+    src: url("fuentes/dayrom.ttf");
+}
+h2{
+    font-family: "Fuente Titulo2";
 }
