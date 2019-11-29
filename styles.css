@@ -70,9 +70,21 @@ footer{
 }
 .Derecha{
     list-style-image: url("imagenes/external_link.png");
-    float: right;
+    float: right; 
+}
+section{
+    margin-top: 20px; 
+    width: 920px;
+    float: left;
 
-   
+}
+aside{
+    float: right;
+    margin-top: 15px;
+    color: white;
 }
 
+#ImagenSection{
+    float: left;
+}
 
