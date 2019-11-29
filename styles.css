@@ -41,6 +41,23 @@ h1{
     font-family: "Fuente Titulo2";
     src: url("fuentes/dayrom.ttf");
 }
+footer{
+    height: 10px;
+}
 h2{
     font-family: "Fuente Titulo2";
+
 }
+.Amigos{
+    float: right;
+    
+}
+.Fotografias{
+    margin-left: 330px;
+}
+.Izquierda{
+    list-style-image: url("imagenes/external_link.png");
+    float: right;
+   
+}
+
