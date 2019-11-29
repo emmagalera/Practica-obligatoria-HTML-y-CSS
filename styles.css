@@ -74,7 +74,7 @@ footer{
 }
 section{
     margin-top: 20px; 
-    width: 920px;
+    width: 925px;
     float: left;
 
 }
@@ -82,9 +82,14 @@ aside{
     float: right;
     margin-top: 15px;
     color: white;
+    background-image: url("Imagenes/FondoAside.jpg" );
+    width: 300px;
 }
+
 
 #ImagenSection{
     float: left;
 }
-
+.Tiempo{
+    margin-left: 10px;
+}
