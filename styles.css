@@ -6,7 +6,13 @@
 h{
    float: left;
 }
-.body{
+body{
     background-image: url(imagenes/yellow_background.png);
-    
+}
+.nav{
+    list-style-type: none;
+}
+.lista{
+    display: inline-block;
+    float: left;
 }
