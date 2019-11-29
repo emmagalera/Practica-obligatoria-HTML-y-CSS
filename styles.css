@@ -82,12 +82,12 @@ section{
 }
 aside{
     float: right;
-    margin-top: 20px;
+    margin-top: 19px;
     color: white;
     background-image: url("Imagenes/FondoAside.jpg" );
     width: 210px;
     padding-left: 10px;
-    margin-right: 170px;
+    margin-right: 175px;
 }
 
 #ImagenSection{
