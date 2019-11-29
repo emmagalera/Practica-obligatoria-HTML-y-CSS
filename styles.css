@@ -49,6 +49,7 @@ footer{
     margin-left: 15px;
     display: inline-block;
     position: relative;
+
 }
 .Tweet{
     float: left;
@@ -61,7 +62,7 @@ footer{
 }
 .Amigos{
     float: right;
-    padding-left: 120px; 
+    padding-left: 0px; 
 }
 .Izquierda{
     list-style-image: url("imagenes/external_link.png");
@@ -74,22 +75,27 @@ footer{
 }
 section{
     margin-top: 20px; 
-    width: 925px;
+    width: 850px;
     float: left;
+    height: 375px;;
 
 }
 aside{
     float: right;
-    margin-top: 15px;
+    margin-top: 20px;
     color: white;
     background-image: url("Imagenes/FondoAside.jpg" );
-    width: 300px;
+    width: 210px;
+    padding-left: 10px;
+    margin-right: 170px;
 }
-
 
 #ImagenSection{
     float: left;
 }
-.Tiempo{
-    margin-left: 10px;
+#flecha{
+    margin-left: 490px;
+}
+#AmigosT{
+    padding-left: 25px;
 }
