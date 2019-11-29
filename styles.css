@@ -22,7 +22,7 @@ body{
     
 }
 header{
-    height: 150px;
+    height: 120px;
    
 }
 hr{
@@ -98,4 +98,11 @@ aside{
 }
 #AmigosT{
     padding-left: 25px;
+}
+#SanFrancisco{
+    width:1075px;
+}
+#navHr{
+    width: 1075px;
+    float:left;
 }
