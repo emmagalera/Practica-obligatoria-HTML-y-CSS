@@ -45,12 +45,23 @@ h2{
     font-family: "Fuente Titulo2";
 
 }
+footer{
+    margin-left: 15px;
+    display: inline-block;
+    position: relative;
+}
+.Tweet{
+    float: left;
+}
+
+.Fotografias{
+    float: right;
+    padding-left: 120px;
+    float: left;
+}
 .Amigos{
     float: right;
-
-}
-.Fotografias{
-    margin-left: 330px;
+    padding-left: 120px; 
 }
 .Izquierda{
     list-style-image: url("imagenes/external_link.png");
@@ -60,9 +71,8 @@ h2{
 .Derecha{
     list-style-image: url("imagenes/external_link.png");
     float: right;
+
    
 }
-footer{
-    display: inline-block;
-}
+
 
